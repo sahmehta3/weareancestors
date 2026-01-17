@@ -1,4 +1,4 @@
-@import url(‘https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;500;600&family=Work+Sans:wght@400;500;600&display=swap’);
+@import url(‘https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;500;600&family=Work+Sans:wght@400;500;600&family=Cormorant+Garamond:wght@500;600&display=swap’);
 
 /* Reset and base styles */
 
@@ -28,11 +28,11 @@ margin-bottom: 60px;
 }
 
 header h1 {
-font-size: 24px;
-font-weight: 600;
+font-size: 26px;
+font-weight: 500;
 margin-bottom: 24px;
-letter-spacing: -0.02em;
-font-family: “Work Sans”, sans-serif;
+letter-spacing: 0.02em;
+font-family: “Cormorant Garamond”, Georgia, serif;
 }
 
 header h1 a {
