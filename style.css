@@ -240,6 +240,21 @@ color: #888;
 font-size: 13px;
 }
 
+/* About page images */
+.about-images {
+display: flex;
+gap: 20px;
+margin-bottom: 32px;
+flex-wrap: wrap;
+}
+
+.about-photo {
+width: 150px;
+height: 150px;
+object-fit: cover;
+border-radius: 4px;
+}
+
 /* Essay navigation */
 .essay-nav {
 margin-top: 60px;
