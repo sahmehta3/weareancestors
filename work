@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Work | We Are Ancestors</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1><a href="index.html">We Are Ancestors</a></h1>
+        <nav>
+            <a href="write.html">Write</a>
+            <a href="read.html">Read</a>
+            <a href="work.html">Work</a>
+            <a href="like.html">Like</a>
+            <a href="about.html">About</a>
+        </nav>
+    </header>
+
+```
+<main>
+    <section class="work">
+        <h2>Work</h2>
+        
+        <article class="work-item">
+            <h3>Project Name</h3>
+            <p class="date">2025 - Present</p>
+            <p>Description of the project and why it matters. What impact are you creating for future generations?</p>
+        </article>
+
+        <article class="work-item">
+            <h3>Another Project</h3>
+            <p class="date">2024</p>
+            <p>What you built and why it will last.</p>
+        </article>
+
+        <!-- Add more work items here -->
+    </section>
+</main>
+
+<footer>
+    <p>&copy; 2026 We Are Ancestors</p>
+</footer>
+```
+
+</body>
+</html>
