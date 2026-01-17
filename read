@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Read | We Are Ancestors</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1><a href="index.html">We Are Ancestors</a></h1>
+        <nav>
+            <a href="write.html">Write</a>
+            <a href="read.html">Read</a>
+            <a href="work.html">Work</a>
+            <a href="like.html">Like</a>
+            <a href="about.html">About</a>
+        </nav>
+    </header>
+
+```
+<main>
+    <section class="reading-list">
+        <h2>Read</h2>
+        
+        <div class="reading-section">
+            <h3>On Long-Term Thinking</h3>
+            <ul>
+                <li><a href="https://example.com" target="_blank">The Long Now Foundation</a></li>
+                <li><a href="https://example.com" target="_blank">Cathedral Thinking</a></li>
+            </ul>
+        </div>
+
+        <div class="reading-section">
+            <h3>On Building</h3>
+            <ul>
+                <li><a href="https://example.com" target="_blank">Article title here</a></li>
+                <li><a href="https://example.com" target="_blank">Another great read</a></li>
+            </ul>
+        </div>
+
+        <div class="reading-section">
+            <h3>On Legacy</h3>
+            <ul>
+                <li><a href="https://example.com" target="_blank">Resource title</a></li>
+            </ul>
+        </div>
+
+        <!-- Add more reading sections as needed -->
+    </section>
+</main>
+
+<footer>
+    <p>&copy; 2026 We Are Ancestors</p>
+</footer>
+```
+
+</body>
+</html>
