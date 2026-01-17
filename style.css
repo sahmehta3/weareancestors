@@ -133,6 +133,25 @@ margin-bottom: 24px;
 color: #2a2a2a;
 }
 
+.work-item-inline {
+margin-bottom: 12px;
+}
+
+.work-item-inline p {
+margin-bottom: 0;
+font-size: 16px;
+line-height: 1.6;
+}
+
+.work-item-inline a {
+color: #2a2a2a;
+font-weight: 500;
+}
+
+.work-item-inline a:hover {
+color: #0066cc;
+}
+
 .work-item {
 margin-bottom: 32px;
 }
@@ -178,6 +197,23 @@ font-size: 15px;
 font-weight: 600;
 margin-bottom: 14px;
 color: #2a2a2a;
+}
+
+.city-group {
+margin-bottom: 24px;
+}
+
+.city-group h4 {
+font-size: 15px;
+font-weight: 600;
+margin-bottom: 8px;
+color: #2a2a2a;
+font-family: “Work Sans”, sans-serif;
+}
+
+.city-group p {
+margin-bottom: 0;
+line-height: 1.7;
 }
 
 ul {
